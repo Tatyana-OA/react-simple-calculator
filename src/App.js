@@ -50,6 +50,9 @@ const App = () => {
           <button className="highlight" id="result" onClick = {calculate}>=</button>
         </div>
       </div>
+	  <footer className="footer-area">
+	  &copy; 2021 - Simple React.js Calculator. Created by Tanya Vass.
+	  </footer>
     </>
   );
 }
